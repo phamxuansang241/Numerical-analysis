@@ -1,5 +1,5 @@
 ## Phương pháp lặp Gauss-Seidel
-* Sinh ma trận A và b [[Rand_matrix_A.py]](https://github.com/phamxuansang241/Numerical-analysis/blob/main/Gauss-Seidel%20iteration%20method/Rand_matrix_A.py).
+* Sinh ma trận A chéo trội hàng và ma trận b [[Rand_matrix_A.py]](https://github.com/phamxuansang241/Numerical-analysis/blob/main/Gauss-Seidel%20iteration%20method/Rand_matrix_A.py).
 * Kiểm tra ma trận chéo trội [[Diag_dom.py]](https://github.com/phamxuansang241/Numerical-analysis/blob/main/Gauss-Seidel%20iteration%20method/Diag_dom.py).
 * Tìm một loại chuẩn nhỏ hơn 1 của ma trận [[Find_norm.py]](https://github.com/phamxuansang241/Numerical-analysis/blob/main/Gauss-Seidel%20iteration%20method/Find_norm.py).
 * Lặp Gauss-Seldel [[Gauss-Seidel.py]](https://github.com/phamxuansang241/Numerical-analysis/blob/main/Gauss-Seidel%20iteration%20method/Gauss-Seidel.py).
